@@ -24,6 +24,3 @@ Instead of using traditional backtracking, I applied a Genetic Algorithm approac
    Randomly swaps positions to introduce diversity.
 7. **Termination**  
    Stops when a solution with zero conflicts is found or after a fixed number of generations.
-
-## Example Run
-### Input
